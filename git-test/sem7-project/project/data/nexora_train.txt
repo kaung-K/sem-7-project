@@ -1,0 +1,1559 @@
+Q: What is Nexora?
+A: Nexora is a subscription platform created for UiT SE ADBMS Course (CS-7313). Project created by Wint War Shwe Yee, Naw Lal Yee Than Han, Chaw Su Han, Kaung Myat Thu, Kaung Kyaw Han. It provides dashboards for readers, creators, and admins with monthly membership, premium content gating, bookmarks, and a rich content editor.
+
+Q: Who created Nexora?
+A: Nexora was created for UiT SE ADBMS Course (CS-7313) by Wint War Shwe Yee, Naw Lal Yee Than Han, Chaw Su Han, Kaung Myat Thu, Kaung Kyaw Han.
+
+Q: Who built project Nexora?
+A: Project Nexora is a subscription platform created for UiT SE ADBMS Course (CS-7313) by Wint War Shwe Yee, Naw Lal Yee Than Han, Chaw Su Han, Kaung Myat Thu, Kaung Kyaw Han.
+
+Q: Tell me about project Nexora.
+A: Nexora is a subscription platform created for UiT SE ADBMS Course (CS-7313). Project created by Wint War Shwe Yee, Naw Lal Yee Than Han, Chaw Su Han, Kaung Myat Thu, Kaung Kyaw Han, featuring monthly membership, premium gating, and creator tools.
+
+Q: How do I upgrade to Premium on Nexora?
+A: From the reader dashboard, click Upgrade to Premium. This starts checkout for the monthly membership. Once active, you can read all premium stories without the blur gate.
+
+Q: How do I manage billing on Nexora?
+A: Use the Manage Billing button in the Membership tab of your reader dashboard. It opens the billing portal to update payment methods or cancel your plan.
+
+Q: How does premium content gating work on Nexora?
+A: Premium stories show a preview and then display a blur gate with an Upgrade prompt. Premium members can view the full content immediately.
+
+Q: Where can I find my bookmarks on Nexora?
+A: Open your reader dashboard and go to the Bookmarks tab. All saved articles appear there with quick actions.
+
+Q: I'm a creator. Can I view other creators' content on Nexora?
+A: Yes. Creators have an active membership and can browse and read other creators' premium content like any member.
+
+Q: How do I write a new post on Nexora?
+A: From the Creator Dashboard, click Write New Post. You will be taken to the rich content editor where you can compose and publish.
+
+Q: Does Nexora support dark mode?
+A: Yes. The site uses a theme provider and adapts to your system preference. You can also toggle the theme from the dashboard header.
+
+Q: How can admins moderate content on Nexora?
+A: Admins can approve, remove, or review reported content from the Admin Dashboard under the Content Moderation tab.
+
+Q: How do I update my profile on Nexora?
+A: Click Profile in the reader dashboard header to open Profile Settings and edit your name, email, bio, and newsletter preferences.
+
+Q: How much does Nexora Premium cost per month?
+A: Premium is a monthly membership. Pricing is shown during checkout and managed via the billing portal.
+
+Q: How do I read the full premium story on Nexora?
+A: Upgrade to Premium from your dashboard to unlock the full content instantly.
+
+Q: How do I share an article from Nexora?
+A: Use the Share button on cards to share via your device's native share menu.
+
+Q: How do I edit or delete a post on Nexora?
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions.
+
+Q: Can admins ban a user on Nexora?
+A: Yes. Admins can take actions like suspend or ban via the user management tools.
+
+Q: Where do I find settings in Nexora?
+A: Open the dashboard header menu or the sidebar Settings item to access preferences.
+
+Q: What can the Nexora chatbot help me with?
+A: It assists with content creation tips, billing, membership, analytics, and navigation.
+
+Q: Does Nexora support mobile devices?
+A: Yes. The layout and sidebar are responsive and optimized for mobile.
+
+Q: Is there a free plan on Nexora? (v2)
+A: Yes. You can use Nexora on a free tier, but premium stories are gated until you upgrade. (Details 2).
+
+Q: How do I read the full premium story on Nexora? (v2)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 2).
+
+Q: How do I share an article from Nexora? (v2)
+A: Use the Share button on cards to share via your device's native share menu. (Details 2).
+
+Q: How do I edit or delete a post on Nexora? (v2)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 2).
+
+Q: How do admins review reported content on Nexora? (v2)
+A: From the Admin Dashboard, open Content Moderation to approve, remove, or review reports. (Details 2).
+
+Q: What is the sidebar navigation in Nexora? (v2)
+A: The sidebar provides quick access to Discover, Library, Subscriptions, and role-specific tools. (Details 2).
+
+Q: What can the Nexora chatbot help me with? (v2)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 2).
+
+Q: What tech stack does Nexora use? (v2)
+A: Nexora uses Next.js with React, Tailwind, and a component system for the UI. (Details 2).
+
+Q: Can I cancel Nexora membership anytime? (v3)
+A: Yes. Use Manage Billing in your dashboard to cancel. Access continues until the end of the billing period. (Details 3).
+
+Q: How do I read the full premium story on Nexora? (v3)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 3).
+
+Q: How do I share an article from Nexora? (v3)
+A: Use the Share button on cards to share via your device's native share menu. (Details 3).
+
+Q: How do I edit or delete a post on Nexora? (v3)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 3).
+
+Q: Does Nexora provide platform analytics for admins? (v3)
+A: Yes. The Admin Dashboard shows platform stats and revenue analytics. (Details 3).
+
+Q: How do I change themes on Nexora? (v3)
+A: Use the Theme Toggle in the header to switch between light and dark modes. (Details 3).
+
+Q: What can the Nexora chatbot help me with? (v3)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 3).
+
+Q: Why did I see a hydration warning on Nexora? (v3)
+A: Hydration warnings can occur if client-only state differs from SSR. Refreshing and avoiding client-only reads during SSR resolves it. (Details 3).
+
+Q: Does Nexora offer a student discount? (v4)
+A: Discounts may be offered during promotions. Check the pricing page or billing portal for details. (Details 4).
+
+Q: How do I read the full premium story on Nexora? (v4)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 4).
+
+Q: How do I share an article from Nexora? (v4)
+A: Use the Share button on cards to share via your device's native share menu. (Details 4).
+
+Q: How do I edit or delete a post on Nexora? (v4)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 4).
+
+Q: Can admins ban a user on Nexora? (v4)
+A: Yes. Admins can take actions like suspend or ban via the user management tools. (Details 4).
+
+Q: Where do I find settings in Nexora? (v4)
+A: Open the dashboard header menu or the sidebar Settings item to access preferences. (Details 4).
+
+Q: What can the Nexora chatbot help me with? (v4)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 4).
+
+Q: Does Nexora support mobile devices? (v4)
+A: Yes. The layout and sidebar are responsive and optimized for mobile. (Details 4).
+
+Q: How do I switch plans on Nexora? (v5)
+A: Use Manage Billing to change plans. Your new plan applies after confirmation in the portal. (Details 5).
+
+Q: How do I read the full premium story on Nexora? (v5)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 5).
+
+Q: How do I share an article from Nexora? (v5)
+A: Use the Share button on cards to share via your device's native share menu. (Details 5).
+
+Q: How do I edit or delete a post on Nexora? (v5)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 5).
+
+Q: How do admins review reported content on Nexora? (v5)
+A: From the Admin Dashboard, open Content Moderation to approve, remove, or review reports. (Details 5).
+
+Q: What is the sidebar navigation in Nexora? (v5)
+A: The sidebar provides quick access to Discover, Library, Subscriptions, and role-specific tools. (Details 5).
+
+Q: What can the Nexora chatbot help me with? (v5)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 5).
+
+Q: What tech stack does Nexora use? (v5)
+A: Nexora uses Next.js with React, Tailwind, and a component system for the UI. (Details 5).
+
+Q: What happens if my Nexora payment fails? (v6)
+A: If a payment fails, the billing portal will guide you to update your method and retry. (Details 6).
+
+Q: How do I read the full premium story on Nexora? (v6)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 6).
+
+Q: How do I share an article from Nexora? (v6)
+A: Use the Share button on cards to share via your device's native share menu. (Details 6).
+
+Q: How do I edit or delete a post on Nexora? (v6)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 6).
+
+Q: Does Nexora provide platform analytics for admins? (v6)
+A: Yes. The Admin Dashboard shows platform stats and revenue analytics. (Details 6).
+
+Q: How do I change themes on Nexora? (v6)
+A: Use the Theme Toggle in the header to switch between light and dark modes. (Details 6).
+
+Q: What can the Nexora chatbot help me with? (v6)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 6).
+
+Q: Why did I see a hydration warning on Nexora? (v6)
+A: Hydration warnings can occur if client-only state differs from SSR. Refreshing and avoiding client-only reads during SSR resolves it. (Details 6).
+
+Q: Is billing handled securely on Nexora? (v7)
+A: Yes. Nexora uses a PCI-compliant payment processor, and the customer portal handles secure updates. (Details 7).
+
+Q: How do I read the full premium story on Nexora? (v7)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 7).
+
+Q: How do I share an article from Nexora? (v7)
+A: Use the Share button on cards to share via your device's native share menu. (Details 7).
+
+Q: How do I edit or delete a post on Nexora? (v7)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 7).
+
+Q: Can admins ban a user on Nexora? (v7)
+A: Yes. Admins can take actions like suspend or ban via the user management tools. (Details 7).
+
+Q: Where do I find settings in Nexora? (v7)
+A: Open the dashboard header menu or the sidebar Settings item to access preferences. (Details 7).
+
+Q: What can the Nexora chatbot help me with? (v7)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 7).
+
+Q: Does Nexora support mobile devices? (v7)
+A: Yes. The layout and sidebar are responsive and optimized for mobile. (Details 7).
+
+Q: How much does Nexora Premium cost per month? (v8)
+A: Premium is a monthly membership. Pricing is shown during checkout and managed via the billing portal. (Details 8).
+
+Q: How do I read the full premium story on Nexora? (v8)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 8).
+
+Q: How do I share an article from Nexora? (v8)
+A: Use the Share button on cards to share via your device's native share menu. (Details 8).
+
+Q: How do I edit or delete a post on Nexora? (v8)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 8).
+
+Q: How do admins review reported content on Nexora? (v8)
+A: From the Admin Dashboard, open Content Moderation to approve, remove, or review reports. (Details 8).
+
+Q: What is the sidebar navigation in Nexora? (v8)
+A: The sidebar provides quick access to Discover, Library, Subscriptions, and role-specific tools. (Details 8).
+
+Q: What can the Nexora chatbot help me with? (v8)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 8).
+
+Q: What tech stack does Nexora use? (v8)
+A: Nexora uses Next.js with React, Tailwind, and a component system for the UI. (Details 8).
+
+Q: Is there a free plan on Nexora? (v9)
+A: Yes. You can use Nexora on a free tier, but premium stories are gated until you upgrade. (Details 9).
+
+Q: How do I read the full premium story on Nexora? (v9)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 9).
+
+Q: How do I share an article from Nexora? (v9)
+A: Use the Share button on cards to share via your device's native share menu. (Details 9).
+
+Q: How do I edit or delete a post on Nexora? (v9)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 9).
+
+Q: Does Nexora provide platform analytics for admins? (v9)
+A: Yes. The Admin Dashboard shows platform stats and revenue analytics. (Details 9).
+
+Q: How do I change themes on Nexora? (v9)
+A: Use the Theme Toggle in the header to switch between light and dark modes. (Details 9).
+
+Q: What can the Nexora chatbot help me with? (v9)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 9).
+
+Q: Why did I see a hydration warning on Nexora? (v9)
+A: Hydration warnings can occur if client-only state differs from SSR. Refreshing and avoiding client-only reads during SSR resolves it. (Details 9).
+
+Q: Can I cancel Nexora membership anytime? (v10)
+A: Yes. Use Manage Billing in your dashboard to cancel. Access continues until the end of the billing period. (Details 10).
+
+Q: How do I read the full premium story on Nexora? (v10)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 10).
+
+Q: How do I share an article from Nexora? (v10)
+A: Use the Share button on cards to share via your device's native share menu. (Details 10).
+
+Q: How do I edit or delete a post on Nexora? (v10)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 10).
+
+Q: Can admins ban a user on Nexora? (v10)
+A: Yes. Admins can take actions like suspend or ban via the user management tools. (Details 10).
+
+Q: Where do I find settings in Nexora? (v10)
+A: Open the dashboard header menu or the sidebar Settings item to access preferences. (Details 10).
+
+Q: What can the Nexora chatbot help me with? (v10)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 10).
+
+Q: Does Nexora support mobile devices? (v10)
+A: Yes. The layout and sidebar are responsive and optimized for mobile. (Details 10).
+
+Q: Does Nexora offer a student discount? (v11)
+A: Discounts may be offered during promotions. Check the pricing page or billing portal for details. (Details 11).
+
+Q: How do I read the full premium story on Nexora? (v11)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 11).
+
+Q: How do I share an article from Nexora? (v11)
+A: Use the Share button on cards to share via your device's native share menu. (Details 11).
+
+Q: How do I edit or delete a post on Nexora? (v11)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 11).
+
+Q: How do admins review reported content on Nexora? (v11)
+A: From the Admin Dashboard, open Content Moderation to approve, remove, or review reports. (Details 11).
+
+Q: What is the sidebar navigation in Nexora? (v11)
+A: The sidebar provides quick access to Discover, Library, Subscriptions, and role-specific tools. (Details 11).
+
+Q: What can the Nexora chatbot help me with? (v11)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 11).
+
+Q: What tech stack does Nexora use? (v11)
+A: Nexora uses Next.js with React, Tailwind, and a component system for the UI. (Details 11).
+
+Q: How do I switch plans on Nexora? (v12)
+A: Use Manage Billing to change plans. Your new plan applies after confirmation in the portal. (Details 12).
+
+Q: How do I read the full premium story on Nexora? (v12)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 12).
+
+Q: How do I share an article from Nexora? (v12)
+A: Use the Share button on cards to share via your device's native share menu. (Details 12).
+
+Q: How do I edit or delete a post on Nexora? (v12)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 12).
+
+Q: Does Nexora provide platform analytics for admins? (v12)
+A: Yes. The Admin Dashboard shows platform stats and revenue analytics. (Details 12).
+
+Q: How do I change themes on Nexora? (v12)
+A: Use the Theme Toggle in the header to switch between light and dark modes. (Details 12).
+
+Q: What can the Nexora chatbot help me with? (v12)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 12).
+
+Q: Why did I see a hydration warning on Nexora? (v12)
+A: Hydration warnings can occur if client-only state differs from SSR. Refreshing and avoiding client-only reads during SSR resolves it. (Details 12).
+
+Q: What happens if my Nexora payment fails? (v13)
+A: If a payment fails, the billing portal will guide you to update your method and retry. (Details 13).
+
+Q: How do I read the full premium story on Nexora? (v13)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 13).
+
+Q: How do I share an article from Nexora? (v13)
+A: Use the Share button on cards to share via your device's native share menu. (Details 13).
+
+Q: How do I edit or delete a post on Nexora? (v13)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 13).
+
+Q: Can admins ban a user on Nexora? (v13)
+A: Yes. Admins can take actions like suspend or ban via the user management tools. (Details 13).
+
+Q: Where do I find settings in Nexora? (v13)
+A: Open the dashboard header menu or the sidebar Settings item to access preferences. (Details 13).
+
+Q: What can the Nexora chatbot help me with? (v13)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 13).
+
+Q: Does Nexora support mobile devices? (v13)
+A: Yes. The layout and sidebar are responsive and optimized for mobile. (Details 13).
+
+Q: Is billing handled securely on Nexora? (v14)
+A: Yes. Nexora uses a PCI-compliant payment processor, and the customer portal handles secure updates. (Details 14).
+
+Q: How do I read the full premium story on Nexora? (v14)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 14).
+
+Q: How do I share an article from Nexora? (v14)
+A: Use the Share button on cards to share via your device's native share menu. (Details 14).
+
+Q: How do I edit or delete a post on Nexora? (v14)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 14).
+
+Q: How do admins review reported content on Nexora? (v14)
+A: From the Admin Dashboard, open Content Moderation to approve, remove, or review reports. (Details 14).
+
+Q: What is the sidebar navigation in Nexora? (v14)
+A: The sidebar provides quick access to Discover, Library, Subscriptions, and role-specific tools. (Details 14).
+
+Q: What can the Nexora chatbot help me with? (v14)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 14).
+
+Q: What tech stack does Nexora use? (v14)
+A: Nexora uses Next.js with React, Tailwind, and a component system for the UI. (Details 14).
+
+Q: How much does Nexora Premium cost per month? (v15)
+A: Premium is a monthly membership. Pricing is shown during checkout and managed via the billing portal. (Details 15).
+
+Q: How do I read the full premium story on Nexora? (v15)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 15).
+
+Q: How do I share an article from Nexora? (v15)
+A: Use the Share button on cards to share via your device's native share menu. (Details 15).
+
+Q: How do I edit or delete a post on Nexora? (v15)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 15).
+
+Q: Does Nexora provide platform analytics for admins? (v15)
+A: Yes. The Admin Dashboard shows platform stats and revenue analytics. (Details 15).
+
+Q: How do I change themes on Nexora? (v15)
+A: Use the Theme Toggle in the header to switch between light and dark modes. (Details 15).
+
+Q: What can the Nexora chatbot help me with? (v15)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 15).
+
+Q: Why did I see a hydration warning on Nexora? (v15)
+A: Hydration warnings can occur if client-only state differs from SSR. Refreshing and avoiding client-only reads during SSR resolves it. (Details 15).
+
+Q: Is there a free plan on Nexora? (v16)
+A: Yes. You can use Nexora on a free tier, but premium stories are gated until you upgrade. (Details 16).
+
+Q: How do I read the full premium story on Nexora? (v16)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 16).
+
+Q: How do I share an article from Nexora? (v16)
+A: Use the Share button on cards to share via your device's native share menu. (Details 16).
+
+Q: How do I edit or delete a post on Nexora? (v16)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 16).
+
+Q: Can admins ban a user on Nexora? (v16)
+A: Yes. Admins can take actions like suspend or ban via the user management tools. (Details 16).
+
+Q: Where do I find settings in Nexora? (v16)
+A: Open the dashboard header menu or the sidebar Settings item to access preferences. (Details 16).
+
+Q: What can the Nexora chatbot help me with? (v16)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 16).
+
+Q: Does Nexora support mobile devices? (v16)
+A: Yes. The layout and sidebar are responsive and optimized for mobile. (Details 16).
+
+Q: Can I cancel Nexora membership anytime? (v17)
+A: Yes. Use Manage Billing in your dashboard to cancel. Access continues until the end of the billing period. (Details 17).
+
+Q: How do I read the full premium story on Nexora? (v17)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 17).
+
+Q: How do I share an article from Nexora? (v17)
+A: Use the Share button on cards to share via your device's native share menu. (Details 17).
+
+Q: How do I edit or delete a post on Nexora? (v17)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 17).
+
+Q: How do admins review reported content on Nexora? (v17)
+A: From the Admin Dashboard, open Content Moderation to approve, remove, or review reports. (Details 17).
+
+Q: What is the sidebar navigation in Nexora? (v17)
+A: The sidebar provides quick access to Discover, Library, Subscriptions, and role-specific tools. (Details 17).
+
+Q: What can the Nexora chatbot help me with? (v17)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 17).
+
+Q: What tech stack does Nexora use? (v17)
+A: Nexora uses Next.js with React, Tailwind, and a component system for the UI. (Details 17).
+
+Q: Does Nexora offer a student discount? (v18)
+A: Discounts may be offered during promotions. Check the pricing page or billing portal for details. (Details 18).
+
+Q: How do I read the full premium story on Nexora? (v18)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 18).
+
+Q: How do I share an article from Nexora? (v18)
+A: Use the Share button on cards to share via your device's native share menu. (Details 18).
+
+Q: How do I edit or delete a post on Nexora? (v18)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 18).
+
+Q: Does Nexora provide platform analytics for admins? (v18)
+A: Yes. The Admin Dashboard shows platform stats and revenue analytics. (Details 18).
+
+Q: How do I change themes on Nexora? (v18)
+A: Use the Theme Toggle in the header to switch between light and dark modes. (Details 18).
+
+Q: What can the Nexora chatbot help me with? (v18)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 18).
+
+Q: Why did I see a hydration warning on Nexora? (v18)
+A: Hydration warnings can occur if client-only state differs from SSR. Refreshing and avoiding client-only reads during SSR resolves it. (Details 18).
+
+Q: How do I switch plans on Nexora? (v19)
+A: Use Manage Billing to change plans. Your new plan applies after confirmation in the portal. (Details 19).
+
+Q: How do I read the full premium story on Nexora? (v19)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 19).
+
+Q: How do I share an article from Nexora? (v19)
+A: Use the Share button on cards to share via your device's native share menu. (Details 19).
+
+Q: How do I edit or delete a post on Nexora? (v19)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 19).
+
+Q: Can admins ban a user on Nexora? (v19)
+A: Yes. Admins can take actions like suspend or ban via the user management tools. (Details 19).
+
+Q: Where do I find settings in Nexora? (v19)
+A: Open the dashboard header menu or the sidebar Settings item to access preferences. (Details 19).
+
+Q: What can the Nexora chatbot help me with? (v19)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 19).
+
+Q: Does Nexora support mobile devices? (v19)
+A: Yes. The layout and sidebar are responsive and optimized for mobile. (Details 19).
+
+Q: What happens if my Nexora payment fails? (v20)
+A: If a payment fails, the billing portal will guide you to update your method and retry. (Details 20).
+
+Q: How do I read the full premium story on Nexora? (v20)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 20).
+
+Q: How do I share an article from Nexora? (v20)
+A: Use the Share button on cards to share via your device's native share menu. (Details 20).
+
+Q: How do I edit or delete a post on Nexora? (v20)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 20).
+
+Q: How do admins review reported content on Nexora? (v20)
+A: From the Admin Dashboard, open Content Moderation to approve, remove, or review reports. (Details 20).
+
+Q: What is the sidebar navigation in Nexora? (v20)
+A: The sidebar provides quick access to Discover, Library, Subscriptions, and role-specific tools. (Details 20).
+
+Q: What can the Nexora chatbot help me with? (v20)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 20).
+
+Q: What tech stack does Nexora use? (v20)
+A: Nexora uses Next.js with React, Tailwind, and a component system for the UI. (Details 20).
+
+Q: Is billing handled securely on Nexora? (v21)
+A: Yes. Nexora uses a PCI-compliant payment processor, and the customer portal handles secure updates. (Details 21).
+
+Q: How do I read the full premium story on Nexora? (v21)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 21).
+
+Q: How do I share an article from Nexora? (v21)
+A: Use the Share button on cards to share via your device's native share menu. (Details 21).
+
+Q: How do I edit or delete a post on Nexora? (v21)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 21).
+
+Q: Does Nexora provide platform analytics for admins? (v21)
+A: Yes. The Admin Dashboard shows platform stats and revenue analytics. (Details 21).
+
+Q: How do I change themes on Nexora? (v21)
+A: Use the Theme Toggle in the header to switch between light and dark modes. (Details 21).
+
+Q: What can the Nexora chatbot help me with? (v21)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 21).
+
+Q: Why did I see a hydration warning on Nexora? (v21)
+A: Hydration warnings can occur if client-only state differs from SSR. Refreshing and avoiding client-only reads during SSR resolves it. (Details 21).
+
+Q: How much does Nexora Premium cost per month? (v22)
+A: Premium is a monthly membership. Pricing is shown during checkout and managed via the billing portal. (Details 22).
+
+Q: How do I read the full premium story on Nexora? (v22)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 22).
+
+Q: How do I share an article from Nexora? (v22)
+A: Use the Share button on cards to share via your device's native share menu. (Details 22).
+
+Q: How do I edit or delete a post on Nexora? (v22)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 22).
+
+Q: Can admins ban a user on Nexora? (v22)
+A: Yes. Admins can take actions like suspend or ban via the user management tools. (Details 22).
+
+Q: Where do I find settings in Nexora? (v22)
+A: Open the dashboard header menu or the sidebar Settings item to access preferences. (Details 22).
+
+Q: What can the Nexora chatbot help me with? (v22)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 22).
+
+Q: Does Nexora support mobile devices? (v22)
+A: Yes. The layout and sidebar are responsive and optimized for mobile. (Details 22).
+
+Q: Is there a free plan on Nexora? (v23)
+A: Yes. You can use Nexora on a free tier, but premium stories are gated until you upgrade. (Details 23).
+
+Q: How do I read the full premium story on Nexora? (v23)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 23).
+
+Q: How do I share an article from Nexora? (v23)
+A: Use the Share button on cards to share via your device's native share menu. (Details 23).
+
+Q: How do I edit or delete a post on Nexora? (v23)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 23).
+
+Q: How do admins review reported content on Nexora? (v23)
+A: From the Admin Dashboard, open Content Moderation to approve, remove, or review reports. (Details 23).
+
+Q: What is the sidebar navigation in Nexora? (v23)
+A: The sidebar provides quick access to Discover, Library, Subscriptions, and role-specific tools. (Details 23).
+
+Q: What can the Nexora chatbot help me with? (v23)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 23).
+
+Q: What tech stack does Nexora use? (v23)
+A: Nexora uses Next.js with React, Tailwind, and a component system for the UI. (Details 23).
+
+Q: Can I cancel Nexora membership anytime? (v24)
+A: Yes. Use Manage Billing in your dashboard to cancel. Access continues until the end of the billing period. (Details 24).
+
+Q: How do I read the full premium story on Nexora? (v24)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 24).
+
+Q: How do I share an article from Nexora? (v24)
+A: Use the Share button on cards to share via your device's native share menu. (Details 24).
+
+Q: How do I edit or delete a post on Nexora? (v24)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 24).
+
+Q: Does Nexora provide platform analytics for admins? (v24)
+A: Yes. The Admin Dashboard shows platform stats and revenue analytics. (Details 24).
+
+Q: How do I change themes on Nexora? (v24)
+A: Use the Theme Toggle in the header to switch between light and dark modes. (Details 24).
+
+Q: What can the Nexora chatbot help me with? (v24)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 24).
+
+Q: Why did I see a hydration warning on Nexora? (v24)
+A: Hydration warnings can occur if client-only state differs from SSR. Refreshing and avoiding client-only reads during SSR resolves it. (Details 24).
+
+Q: Does Nexora offer a student discount? (v25)
+A: Discounts may be offered during promotions. Check the pricing page or billing portal for details. (Details 25).
+
+Q: How do I read the full premium story on Nexora? (v25)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 25).
+
+Q: How do I share an article from Nexora? (v25)
+A: Use the Share button on cards to share via your device's native share menu. (Details 25).
+
+Q: How do I edit or delete a post on Nexora? (v25)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 25).
+
+Q: Can admins ban a user on Nexora? (v25)
+A: Yes. Admins can take actions like suspend or ban via the user management tools. (Details 25).
+
+Q: Where do I find settings in Nexora? (v25)
+A: Open the dashboard header menu or the sidebar Settings item to access preferences. (Details 25).
+
+Q: What can the Nexora chatbot help me with? (v25)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 25).
+
+Q: Does Nexora support mobile devices? (v25)
+A: Yes. The layout and sidebar are responsive and optimized for mobile. (Details 25).
+
+Q: How do I switch plans on Nexora? (v26)
+A: Use Manage Billing to change plans. Your new plan applies after confirmation in the portal. (Details 26).
+
+Q: How do I read the full premium story on Nexora? (v26)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 26).
+
+Q: How do I share an article from Nexora? (v26)
+A: Use the Share button on cards to share via your device's native share menu. (Details 26).
+
+Q: How do I edit or delete a post on Nexora? (v26)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 26).
+
+Q: How do admins review reported content on Nexora? (v26)
+A: From the Admin Dashboard, open Content Moderation to approve, remove, or review reports. (Details 26).
+
+Q: What is the sidebar navigation in Nexora? (v26)
+A: The sidebar provides quick access to Discover, Library, Subscriptions, and role-specific tools. (Details 26).
+
+Q: What can the Nexora chatbot help me with? (v26)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 26).
+
+Q: What tech stack does Nexora use? (v26)
+A: Nexora uses Next.js with React, Tailwind, and a component system for the UI. (Details 26).
+
+Q: What happens if my Nexora payment fails? (v27)
+A: If a payment fails, the billing portal will guide you to update your method and retry. (Details 27).
+
+Q: How do I read the full premium story on Nexora? (v27)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 27).
+
+Q: How do I share an article from Nexora? (v27)
+A: Use the Share button on cards to share via your device's native share menu. (Details 27).
+
+Q: How do I edit or delete a post on Nexora? (v27)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 27).
+
+Q: Does Nexora provide platform analytics for admins? (v27)
+A: Yes. The Admin Dashboard shows platform stats and revenue analytics. (Details 27).
+
+Q: How do I change themes on Nexora? (v27)
+A: Use the Theme Toggle in the header to switch between light and dark modes. (Details 27).
+
+Q: What can the Nexora chatbot help me with? (v27)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 27).
+
+Q: Why did I see a hydration warning on Nexora? (v27)
+A: Hydration warnings can occur if client-only state differs from SSR. Refreshing and avoiding client-only reads during SSR resolves it. (Details 27).
+
+Q: Is billing handled securely on Nexora? (v28)
+A: Yes. Nexora uses a PCI-compliant payment processor, and the customer portal handles secure updates. (Details 28).
+
+Q: How do I read the full premium story on Nexora? (v28)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 28).
+
+Q: How do I share an article from Nexora? (v28)
+A: Use the Share button on cards to share via your device's native share menu. (Details 28).
+
+Q: How do I edit or delete a post on Nexora? (v28)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 28).
+
+Q: Can admins ban a user on Nexora? (v28)
+A: Yes. Admins can take actions like suspend or ban via the user management tools. (Details 28).
+
+Q: Where do I find settings in Nexora? (v28)
+A: Open the dashboard header menu or the sidebar Settings item to access preferences. (Details 28).
+
+Q: What can the Nexora chatbot help me with? (v28)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 28).
+
+Q: Does Nexora support mobile devices? (v28)
+A: Yes. The layout and sidebar are responsive and optimized for mobile. (Details 28).
+
+Q: How much does Nexora Premium cost per month? (v29)
+A: Premium is a monthly membership. Pricing is shown during checkout and managed via the billing portal. (Details 29).
+
+Q: How do I read the full premium story on Nexora? (v29)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 29).
+
+Q: How do I share an article from Nexora? (v29)
+A: Use the Share button on cards to share via your device's native share menu. (Details 29).
+
+Q: How do I edit or delete a post on Nexora? (v29)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 29).
+
+Q: How do admins review reported content on Nexora? (v29)
+A: From the Admin Dashboard, open Content Moderation to approve, remove, or review reports. (Details 29).
+
+Q: What is the sidebar navigation in Nexora? (v29)
+A: The sidebar provides quick access to Discover, Library, Subscriptions, and role-specific tools. (Details 29).
+
+Q: What can the Nexora chatbot help me with? (v29)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 29).
+
+Q: What tech stack does Nexora use? (v29)
+A: Nexora uses Next.js with React, Tailwind, and a component system for the UI. (Details 29).
+
+Q: Is there a free plan on Nexora? (v30)
+A: Yes. You can use Nexora on a free tier, but premium stories are gated until you upgrade. (Details 30).
+
+Q: How do I read the full premium story on Nexora? (v30)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 30).
+
+Q: How do I share an article from Nexora? (v30)
+A: Use the Share button on cards to share via your device's native share menu. (Details 30).
+
+Q: How do I edit or delete a post on Nexora? (v30)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 30).
+
+Q: Does Nexora provide platform analytics for admins? (v30)
+A: Yes. The Admin Dashboard shows platform stats and revenue analytics. (Details 30).
+
+Q: How do I change themes on Nexora? (v30)
+A: Use the Theme Toggle in the header to switch between light and dark modes. (Details 30).
+
+Q: What can the Nexora chatbot help me with? (v30)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 30).
+
+Q: Why did I see a hydration warning on Nexora? (v30)
+A: Hydration warnings can occur if client-only state differs from SSR. Refreshing and avoiding client-only reads during SSR resolves it. (Details 30).
+
+Q: Can I cancel Nexora membership anytime? (v31)
+A: Yes. Use Manage Billing in your dashboard to cancel. Access continues until the end of the billing period. (Details 31).
+
+Q: How do I read the full premium story on Nexora? (v31)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 31).
+
+Q: How do I share an article from Nexora? (v31)
+A: Use the Share button on cards to share via your device's native share menu. (Details 31).
+
+Q: How do I edit or delete a post on Nexora? (v31)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 31).
+
+Q: Can admins ban a user on Nexora? (v31)
+A: Yes. Admins can take actions like suspend or ban via the user management tools. (Details 31).
+
+Q: Where do I find settings in Nexora? (v31)
+A: Open the dashboard header menu or the sidebar Settings item to access preferences. (Details 31).
+
+Q: What can the Nexora chatbot help me with? (v31)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 31).
+
+Q: Does Nexora support mobile devices? (v31)
+A: Yes. The layout and sidebar are responsive and optimized for mobile. (Details 31).
+
+Q: Does Nexora offer a student discount? (v32)
+A: Discounts may be offered during promotions. Check the pricing page or billing portal for details. (Details 32).
+
+Q: How do I read the full premium story on Nexora? (v32)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 32).
+
+Q: How do I share an article from Nexora? (v32)
+A: Use the Share button on cards to share via your device's native share menu. (Details 32).
+
+Q: How do I edit or delete a post on Nexora? (v32)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 32).
+
+Q: How do admins review reported content on Nexora? (v32)
+A: From the Admin Dashboard, open Content Moderation to approve, remove, or review reports. (Details 32).
+
+Q: What is the sidebar navigation in Nexora? (v32)
+A: The sidebar provides quick access to Discover, Library, Subscriptions, and role-specific tools. (Details 32).
+
+Q: What can the Nexora chatbot help me with? (v32)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 32).
+
+Q: What tech stack does Nexora use? (v32)
+A: Nexora uses Next.js with React, Tailwind, and a component system for the UI. (Details 32).
+
+Q: How do I switch plans on Nexora? (v33)
+A: Use Manage Billing to change plans. Your new plan applies after confirmation in the portal. (Details 33).
+
+Q: How do I read the full premium story on Nexora? (v33)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 33).
+
+Q: How do I share an article from Nexora? (v33)
+A: Use the Share button on cards to share via your device's native share menu. (Details 33).
+
+Q: How do I edit or delete a post on Nexora? (v33)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 33).
+
+Q: Does Nexora provide platform analytics for admins? (v33)
+A: Yes. The Admin Dashboard shows platform stats and revenue analytics. (Details 33).
+
+Q: How do I change themes on Nexora? (v33)
+A: Use the Theme Toggle in the header to switch between light and dark modes. (Details 33).
+
+Q: What can the Nexora chatbot help me with? (v33)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 33).
+
+Q: Why did I see a hydration warning on Nexora? (v33)
+A: Hydration warnings can occur if client-only state differs from SSR. Refreshing and avoiding client-only reads during SSR resolves it. (Details 33).
+
+Q: What happens if my Nexora payment fails? (v34)
+A: If a payment fails, the billing portal will guide you to update your method and retry. (Details 34).
+
+Q: How do I read the full premium story on Nexora? (v34)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 34).
+
+Q: How do I share an article from Nexora? (v34)
+A: Use the Share button on cards to share via your device's native share menu. (Details 34).
+
+Q: How do I edit or delete a post on Nexora? (v34)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 34).
+
+Q: Can admins ban a user on Nexora? (v34)
+A: Yes. Admins can take actions like suspend or ban via the user management tools. (Details 34).
+
+Q: Where do I find settings in Nexora? (v34)
+A: Open the dashboard header menu or the sidebar Settings item to access preferences. (Details 34).
+
+Q: What can the Nexora chatbot help me with? (v34)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 34).
+
+Q: Does Nexora support mobile devices? (v34)
+A: Yes. The layout and sidebar are responsive and optimized for mobile. (Details 34).
+
+Q: Is billing handled securely on Nexora? (v35)
+A: Yes. Nexora uses a PCI-compliant payment processor, and the customer portal handles secure updates. (Details 35).
+
+Q: How do I read the full premium story on Nexora? (v35)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 35).
+
+Q: How do I share an article from Nexora? (v35)
+A: Use the Share button on cards to share via your device's native share menu. (Details 35).
+
+Q: How do I edit or delete a post on Nexora? (v35)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 35).
+
+Q: How do admins review reported content on Nexora? (v35)
+A: From the Admin Dashboard, open Content Moderation to approve, remove, or review reports. (Details 35).
+
+Q: What is the sidebar navigation in Nexora? (v35)
+A: The sidebar provides quick access to Discover, Library, Subscriptions, and role-specific tools. (Details 35).
+
+Q: What can the Nexora chatbot help me with? (v35)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 35).
+
+Q: What tech stack does Nexora use? (v35)
+A: Nexora uses Next.js with React, Tailwind, and a component system for the UI. (Details 35).
+
+Q: How much does Nexora Premium cost per month? (v36)
+A: Premium is a monthly membership. Pricing is shown during checkout and managed via the billing portal. (Details 36).
+
+Q: How do I read the full premium story on Nexora? (v36)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 36).
+
+Q: How do I share an article from Nexora? (v36)
+A: Use the Share button on cards to share via your device's native share menu. (Details 36).
+
+Q: How do I edit or delete a post on Nexora? (v36)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 36).
+
+Q: Does Nexora provide platform analytics for admins? (v36)
+A: Yes. The Admin Dashboard shows platform stats and revenue analytics. (Details 36).
+
+Q: How do I change themes on Nexora? (v36)
+A: Use the Theme Toggle in the header to switch between light and dark modes. (Details 36).
+
+Q: What can the Nexora chatbot help me with? (v36)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 36).
+
+Q: Why did I see a hydration warning on Nexora? (v36)
+A: Hydration warnings can occur if client-only state differs from SSR. Refreshing and avoiding client-only reads during SSR resolves it. (Details 36).
+
+Q: Is there a free plan on Nexora? (v37)
+A: Yes. You can use Nexora on a free tier, but premium stories are gated until you upgrade. (Details 37).
+
+Q: How do I read the full premium story on Nexora? (v37)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 37).
+
+Q: How do I share an article from Nexora? (v37)
+A: Use the Share button on cards to share via your device's native share menu. (Details 37).
+
+Q: How do I edit or delete a post on Nexora? (v37)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 37).
+
+Q: Can admins ban a user on Nexora? (v37)
+A: Yes. Admins can take actions like suspend or ban via the user management tools. (Details 37).
+
+Q: Where do I find settings in Nexora? (v37)
+A: Open the dashboard header menu or the sidebar Settings item to access preferences. (Details 37).
+
+Q: What can the Nexora chatbot help me with? (v37)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 37).
+
+Q: Does Nexora support mobile devices? (v37)
+A: Yes. The layout and sidebar are responsive and optimized for mobile. (Details 37).
+
+Q: Can I cancel Nexora membership anytime? (v38)
+A: Yes. Use Manage Billing in your dashboard to cancel. Access continues until the end of the billing period. (Details 38).
+
+Q: How do I read the full premium story on Nexora? (v38)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 38).
+
+Q: How do I share an article from Nexora? (v38)
+A: Use the Share button on cards to share via your device's native share menu. (Details 38).
+
+Q: How do I edit or delete a post on Nexora? (v38)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 38).
+
+Q: How do admins review reported content on Nexora? (v38)
+A: From the Admin Dashboard, open Content Moderation to approve, remove, or review reports. (Details 38).
+
+Q: What is the sidebar navigation in Nexora? (v38)
+A: The sidebar provides quick access to Discover, Library, Subscriptions, and role-specific tools. (Details 38).
+
+Q: What can the Nexora chatbot help me with? (v38)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 38).
+
+Q: What tech stack does Nexora use? (v38)
+A: Nexora uses Next.js with React, Tailwind, and a component system for the UI. (Details 38).
+
+Q: Does Nexora offer a student discount? (v39)
+A: Discounts may be offered during promotions. Check the pricing page or billing portal for details. (Details 39).
+
+Q: How do I read the full premium story on Nexora? (v39)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 39).
+
+Q: How do I share an article from Nexora? (v39)
+A: Use the Share button on cards to share via your device's native share menu. (Details 39).
+
+Q: How do I edit or delete a post on Nexora? (v39)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 39).
+
+Q: Does Nexora provide platform analytics for admins? (v39)
+A: Yes. The Admin Dashboard shows platform stats and revenue analytics. (Details 39).
+
+Q: How do I change themes on Nexora? (v39)
+A: Use the Theme Toggle in the header to switch between light and dark modes. (Details 39).
+
+Q: What can the Nexora chatbot help me with? (v39)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 39).
+
+Q: Why did I see a hydration warning on Nexora? (v39)
+A: Hydration warnings can occur if client-only state differs from SSR. Refreshing and avoiding client-only reads during SSR resolves it. (Details 39).
+
+Q: How do I switch plans on Nexora? (v40)
+A: Use Manage Billing to change plans. Your new plan applies after confirmation in the portal. (Details 40).
+
+Q: How do I read the full premium story on Nexora? (v40)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 40).
+
+Q: How do I share an article from Nexora? (v40)
+A: Use the Share button on cards to share via your device's native share menu. (Details 40).
+
+Q: How do I edit or delete a post on Nexora? (v40)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 40).
+
+Q: Can admins ban a user on Nexora? (v40)
+A: Yes. Admins can take actions like suspend or ban via the user management tools. (Details 40).
+
+Q: Where do I find settings in Nexora? (v40)
+A: Open the dashboard header menu or the sidebar Settings item to access preferences. (Details 40).
+
+Q: What can the Nexora chatbot help me with? (v40)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 40).
+
+Q: Does Nexora support mobile devices? (v40)
+A: Yes. The layout and sidebar are responsive and optimized for mobile. (Details 40).
+
+Q: What happens if my Nexora payment fails? (v41)
+A: If a payment fails, the billing portal will guide you to update your method and retry. (Details 41).
+
+Q: How do I read the full premium story on Nexora? (v41)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 41).
+
+Q: How do I share an article from Nexora? (v41)
+A: Use the Share button on cards to share via your device's native share menu. (Details 41).
+
+Q: How do I edit or delete a post on Nexora? (v41)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 41).
+
+Q: How do admins review reported content on Nexora? (v41)
+A: From the Admin Dashboard, open Content Moderation to approve, remove, or review reports. (Details 41).
+
+Q: What is the sidebar navigation in Nexora? (v41)
+A: The sidebar provides quick access to Discover, Library, Subscriptions, and role-specific tools. (Details 41).
+
+Q: What can the Nexora chatbot help me with? (v41)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 41).
+
+Q: What tech stack does Nexora use? (v41)
+A: Nexora uses Next.js with React, Tailwind, and a component system for the UI. (Details 41).
+
+Q: Is billing handled securely on Nexora? (v42)
+A: Yes. Nexora uses a PCI-compliant payment processor, and the customer portal handles secure updates. (Details 42).
+
+Q: How do I read the full premium story on Nexora? (v42)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 42).
+
+Q: How do I share an article from Nexora? (v42)
+A: Use the Share button on cards to share via your device's native share menu. (Details 42).
+
+Q: How do I edit or delete a post on Nexora? (v42)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 42).
+
+Q: Does Nexora provide platform analytics for admins? (v42)
+A: Yes. The Admin Dashboard shows platform stats and revenue analytics. (Details 42).
+
+Q: How do I change themes on Nexora? (v42)
+A: Use the Theme Toggle in the header to switch between light and dark modes. (Details 42).
+
+Q: What can the Nexora chatbot help me with? (v42)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 42).
+
+Q: Why did I see a hydration warning on Nexora? (v42)
+A: Hydration warnings can occur if client-only state differs from SSR. Refreshing and avoiding client-only reads during SSR resolves it. (Details 42).
+
+Q: How much does Nexora Premium cost per month? (v43)
+A: Premium is a monthly membership. Pricing is shown during checkout and managed via the billing portal. (Details 43).
+
+Q: How do I read the full premium story on Nexora? (v43)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 43).
+
+Q: How do I share an article from Nexora? (v43)
+A: Use the Share button on cards to share via your device's native share menu. (Details 43).
+
+Q: How do I edit or delete a post on Nexora? (v43)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 43).
+
+Q: Can admins ban a user on Nexora? (v43)
+A: Yes. Admins can take actions like suspend or ban via the user management tools. (Details 43).
+
+Q: Where do I find settings in Nexora? (v43)
+A: Open the dashboard header menu or the sidebar Settings item to access preferences. (Details 43).
+
+Q: What can the Nexora chatbot help me with? (v43)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 43).
+
+Q: Does Nexora support mobile devices? (v43)
+A: Yes. The layout and sidebar are responsive and optimized for mobile. (Details 43).
+
+Q: Is there a free plan on Nexora? (v44)
+A: Yes. You can use Nexora on a free tier, but premium stories are gated until you upgrade. (Details 44).
+
+Q: How do I read the full premium story on Nexora? (v44)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 44).
+
+Q: How do I share an article from Nexora? (v44)
+A: Use the Share button on cards to share via your device's native share menu. (Details 44).
+
+Q: How do I edit or delete a post on Nexora? (v44)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 44).
+
+Q: How do admins review reported content on Nexora? (v44)
+A: From the Admin Dashboard, open Content Moderation to approve, remove, or review reports. (Details 44).
+
+Q: What is the sidebar navigation in Nexora? (v44)
+A: The sidebar provides quick access to Discover, Library, Subscriptions, and role-specific tools. (Details 44).
+
+Q: What can the Nexora chatbot help me with? (v44)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 44).
+
+Q: What tech stack does Nexora use? (v44)
+A: Nexora uses Next.js with React, Tailwind, and a component system for the UI. (Details 44).
+
+Q: Can I cancel Nexora membership anytime? (v45)
+A: Yes. Use Manage Billing in your dashboard to cancel. Access continues until the end of the billing period. (Details 45).
+
+Q: How do I read the full premium story on Nexora? (v45)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 45).
+
+Q: How do I share an article from Nexora? (v45)
+A: Use the Share button on cards to share via your device's native share menu. (Details 45).
+
+Q: How do I edit or delete a post on Nexora? (v45)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 45).
+
+Q: Does Nexora provide platform analytics for admins? (v45)
+A: Yes. The Admin Dashboard shows platform stats and revenue analytics. (Details 45).
+
+Q: How do I change themes on Nexora? (v45)
+A: Use the Theme Toggle in the header to switch between light and dark modes. (Details 45).
+
+Q: What can the Nexora chatbot help me with? (v45)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 45).
+
+Q: Why did I see a hydration warning on Nexora? (v45)
+A: Hydration warnings can occur if client-only state differs from SSR. Refreshing and avoiding client-only reads during SSR resolves it. (Details 45).
+
+Q: Does Nexora offer a student discount? (v46)
+A: Discounts may be offered during promotions. Check the pricing page or billing portal for details. (Details 46).
+
+Q: How do I read the full premium story on Nexora? (v46)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 46).
+
+Q: How do I share an article from Nexora? (v46)
+A: Use the Share button on cards to share via your device's native share menu. (Details 46).
+
+Q: How do I edit or delete a post on Nexora? (v46)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 46).
+
+Q: Can admins ban a user on Nexora? (v46)
+A: Yes. Admins can take actions like suspend or ban via the user management tools. (Details 46).
+
+Q: Where do I find settings in Nexora? (v46)
+A: Open the dashboard header menu or the sidebar Settings item to access preferences. (Details 46).
+
+Q: What can the Nexora chatbot help me with? (v46)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 46).
+
+Q: Does Nexora support mobile devices? (v46)
+A: Yes. The layout and sidebar are responsive and optimized for mobile. (Details 46).
+
+Q: How do I switch plans on Nexora? (v47)
+A: Use Manage Billing to change plans. Your new plan applies after confirmation in the portal. (Details 47).
+
+Q: How do I read the full premium story on Nexora? (v47)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 47).
+
+Q: How do I share an article from Nexora? (v47)
+A: Use the Share button on cards to share via your device's native share menu. (Details 47).
+
+Q: How do I edit or delete a post on Nexora? (v47)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 47).
+
+Q: How do admins review reported content on Nexora? (v47)
+A: From the Admin Dashboard, open Content Moderation to approve, remove, or review reports. (Details 47).
+
+Q: What is the sidebar navigation in Nexora? (v47)
+A: The sidebar provides quick access to Discover, Library, Subscriptions, and role-specific tools. (Details 47).
+
+Q: What can the Nexora chatbot help me with? (v47)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 47).
+
+Q: What tech stack does Nexora use? (v47)
+A: Nexora uses Next.js with React, Tailwind, and a component system for the UI. (Details 47).
+
+Q: What happens if my Nexora payment fails? (v48)
+A: If a payment fails, the billing portal will guide you to update your method and retry. (Details 48).
+
+Q: How do I read the full premium story on Nexora? (v48)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 48).
+
+Q: How do I share an article from Nexora? (v48)
+A: Use the Share button on cards to share via your device's native share menu. (Details 48).
+
+Q: How do I edit or delete a post on Nexora? (v48)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 48).
+
+Q: Does Nexora provide platform analytics for admins? (v48)
+A: Yes. The Admin Dashboard shows platform stats and revenue analytics. (Details 48).
+
+Q: How do I change themes on Nexora? (v48)
+A: Use the Theme Toggle in the header to switch between light and dark modes. (Details 48).
+
+Q: What can the Nexora chatbot help me with? (v48)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 48).
+
+Q: Why did I see a hydration warning on Nexora? (v48)
+A: Hydration warnings can occur if client-only state differs from SSR. Refreshing and avoiding client-only reads during SSR resolves it. (Details 48).
+
+Q: Is billing handled securely on Nexora? (v49)
+A: Yes. Nexora uses a PCI-compliant payment processor, and the customer portal handles secure updates. (Details 49).
+
+Q: How do I read the full premium story on Nexora? (v49)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 49).
+
+Q: How do I share an article from Nexora? (v49)
+A: Use the Share button on cards to share via your device's native share menu. (Details 49).
+
+Q: How do I edit or delete a post on Nexora? (v49)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 49).
+
+Q: Can admins ban a user on Nexora? (v49)
+A: Yes. Admins can take actions like suspend or ban via the user management tools. (Details 49).
+
+Q: Where do I find settings in Nexora? (v49)
+A: Open the dashboard header menu or the sidebar Settings item to access preferences. (Details 49).
+
+Q: What can the Nexora chatbot help me with? (v49)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 49).
+
+Q: Does Nexora support mobile devices? (v49)
+A: Yes. The layout and sidebar are responsive and optimized for mobile. (Details 49).
+
+Q: How much does Nexora Premium cost per month? (v50)
+A: Premium is a monthly membership. Pricing is shown during checkout and managed via the billing portal. (Details 50).
+
+Q: How do I read the full premium story on Nexora? (v50)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 50).
+
+Q: How do I share an article from Nexora? (v50)
+A: Use the Share button on cards to share via your device's native share menu. (Details 50).
+
+Q: How do I edit or delete a post on Nexora? (v50)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 50).
+
+Q: How do admins review reported content on Nexora? (v50)
+A: From the Admin Dashboard, open Content Moderation to approve, remove, or review reports. (Details 50).
+
+Q: What is the sidebar navigation in Nexora? (v50)
+A: The sidebar provides quick access to Discover, Library, Subscriptions, and role-specific tools. (Details 50).
+
+Q: What can the Nexora chatbot help me with? (v50)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 50).
+
+Q: What tech stack does Nexora use? (v50)
+A: Nexora uses Next.js with React, Tailwind, and a component system for the UI. (Details 50).
+
+Q: Is there a free plan on Nexora? (v51)
+A: Yes. You can use Nexora on a free tier, but premium stories are gated until you upgrade. (Details 51).
+
+Q: How do I read the full premium story on Nexora? (v51)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 51).
+
+Q: How do I share an article from Nexora? (v51)
+A: Use the Share button on cards to share via your device's native share menu. (Details 51).
+
+Q: How do I edit or delete a post on Nexora? (v51)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 51).
+
+Q: Does Nexora provide platform analytics for admins? (v51)
+A: Yes. The Admin Dashboard shows platform stats and revenue analytics. (Details 51).
+
+Q: How do I change themes on Nexora? (v51)
+A: Use the Theme Toggle in the header to switch between light and dark modes. (Details 51).
+
+Q: What can the Nexora chatbot help me with? (v51)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 51).
+
+Q: Why did I see a hydration warning on Nexora? (v51)
+A: Hydration warnings can occur if client-only state differs from SSR. Refreshing and avoiding client-only reads during SSR resolves it. (Details 51).
+
+Q: Can I cancel Nexora membership anytime? (v52)
+A: Yes. Use Manage Billing in your dashboard to cancel. Access continues until the end of the billing period. (Details 52).
+
+Q: How do I read the full premium story on Nexora? (v52)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 52).
+
+Q: How do I share an article from Nexora? (v52)
+A: Use the Share button on cards to share via your device's native share menu. (Details 52).
+
+Q: How do I edit or delete a post on Nexora? (v52)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 52).
+
+Q: Can admins ban a user on Nexora? (v52)
+A: Yes. Admins can take actions like suspend or ban via the user management tools. (Details 52).
+
+Q: Where do I find settings in Nexora? (v52)
+A: Open the dashboard header menu or the sidebar Settings item to access preferences. (Details 52).
+
+Q: What can the Nexora chatbot help me with? (v52)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 52).
+
+Q: Does Nexora support mobile devices? (v52)
+A: Yes. The layout and sidebar are responsive and optimized for mobile. (Details 52).
+
+Q: Does Nexora offer a student discount? (v53)
+A: Discounts may be offered during promotions. Check the pricing page or billing portal for details. (Details 53).
+
+Q: How do I read the full premium story on Nexora? (v53)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 53).
+
+Q: How do I share an article from Nexora? (v53)
+A: Use the Share button on cards to share via your device's native share menu. (Details 53).
+
+Q: How do I edit or delete a post on Nexora? (v53)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 53).
+
+Q: How do admins review reported content on Nexora? (v53)
+A: From the Admin Dashboard, open Content Moderation to approve, remove, or review reports. (Details 53).
+
+Q: What is the sidebar navigation in Nexora? (v53)
+A: The sidebar provides quick access to Discover, Library, Subscriptions, and role-specific tools. (Details 53).
+
+Q: What can the Nexora chatbot help me with? (v53)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 53).
+
+Q: What tech stack does Nexora use? (v53)
+A: Nexora uses Next.js with React, Tailwind, and a component system for the UI. (Details 53).
+
+Q: How do I switch plans on Nexora? (v54)
+A: Use Manage Billing to change plans. Your new plan applies after confirmation in the portal. (Details 54).
+
+Q: How do I read the full premium story on Nexora? (v54)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 54).
+
+Q: How do I share an article from Nexora? (v54)
+A: Use the Share button on cards to share via your device's native share menu. (Details 54).
+
+Q: How do I edit or delete a post on Nexora? (v54)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 54).
+
+Q: Does Nexora provide platform analytics for admins? (v54)
+A: Yes. The Admin Dashboard shows platform stats and revenue analytics. (Details 54).
+
+Q: How do I change themes on Nexora? (v54)
+A: Use the Theme Toggle in the header to switch between light and dark modes. (Details 54).
+
+Q: What can the Nexora chatbot help me with? (v54)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 54).
+
+Q: Why did I see a hydration warning on Nexora? (v54)
+A: Hydration warnings can occur if client-only state differs from SSR. Refreshing and avoiding client-only reads during SSR resolves it. (Details 54).
+
+Q: What happens if my Nexora payment fails? (v55)
+A: If a payment fails, the billing portal will guide you to update your method and retry. (Details 55).
+
+Q: How do I read the full premium story on Nexora? (v55)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 55).
+
+Q: How do I share an article from Nexora? (v55)
+A: Use the Share button on cards to share via your device's native share menu. (Details 55).
+
+Q: How do I edit or delete a post on Nexora? (v55)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 55).
+
+Q: Can admins ban a user on Nexora? (v55)
+A: Yes. Admins can take actions like suspend or ban via the user management tools. (Details 55).
+
+Q: Where do I find settings in Nexora? (v55)
+A: Open the dashboard header menu or the sidebar Settings item to access preferences. (Details 55).
+
+Q: What can the Nexora chatbot help me with? (v55)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 55).
+
+Q: Does Nexora support mobile devices? (v55)
+A: Yes. The layout and sidebar are responsive and optimized for mobile. (Details 55).
+
+Q: Is billing handled securely on Nexora? (v56)
+A: Yes. Nexora uses a PCI-compliant payment processor, and the customer portal handles secure updates. (Details 56).
+
+Q: How do I read the full premium story on Nexora? (v56)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 56).
+
+Q: How do I share an article from Nexora? (v56)
+A: Use the Share button on cards to share via your device's native share menu. (Details 56).
+
+Q: How do I edit or delete a post on Nexora? (v56)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 56).
+
+Q: How do admins review reported content on Nexora? (v56)
+A: From the Admin Dashboard, open Content Moderation to approve, remove, or review reports. (Details 56).
+
+Q: What is the sidebar navigation in Nexora? (v56)
+A: The sidebar provides quick access to Discover, Library, Subscriptions, and role-specific tools. (Details 56).
+
+Q: What can the Nexora chatbot help me with? (v56)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 56).
+
+Q: What tech stack does Nexora use? (v56)
+A: Nexora uses Next.js with React, Tailwind, and a component system for the UI. (Details 56).
+
+Q: How much does Nexora Premium cost per month? (v57)
+A: Premium is a monthly membership. Pricing is shown during checkout and managed via the billing portal. (Details 57).
+
+Q: How do I read the full premium story on Nexora? (v57)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 57).
+
+Q: How do I share an article from Nexora? (v57)
+A: Use the Share button on cards to share via your device's native share menu. (Details 57).
+
+Q: How do I edit or delete a post on Nexora? (v57)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 57).
+
+Q: Does Nexora provide platform analytics for admins? (v57)
+A: Yes. The Admin Dashboard shows platform stats and revenue analytics. (Details 57).
+
+Q: How do I change themes on Nexora? (v57)
+A: Use the Theme Toggle in the header to switch between light and dark modes. (Details 57).
+
+Q: What can the Nexora chatbot help me with? (v57)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 57).
+
+Q: Why did I see a hydration warning on Nexora? (v57)
+A: Hydration warnings can occur if client-only state differs from SSR. Refreshing and avoiding client-only reads during SSR resolves it. (Details 57).
+
+Q: Is there a free plan on Nexora? (v58)
+A: Yes. You can use Nexora on a free tier, but premium stories are gated until you upgrade. (Details 58).
+
+Q: How do I read the full premium story on Nexora? (v58)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 58).
+
+Q: How do I share an article from Nexora? (v58)
+A: Use the Share button on cards to share via your device's native share menu. (Details 58).
+
+Q: How do I edit or delete a post on Nexora? (v58)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 58).
+
+Q: Can admins ban a user on Nexora? (v58)
+A: Yes. Admins can take actions like suspend or ban via the user management tools. (Details 58).
+
+Q: Where do I find settings in Nexora? (v58)
+A: Open the dashboard header menu or the sidebar Settings item to access preferences. (Details 58).
+
+Q: What can the Nexora chatbot help me with? (v58)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 58).
+
+Q: Does Nexora support mobile devices? (v58)
+A: Yes. The layout and sidebar are responsive and optimized for mobile. (Details 58).
+
+Q: Can I cancel Nexora membership anytime? (v59)
+A: Yes. Use Manage Billing in your dashboard to cancel. Access continues until the end of the billing period. (Details 59).
+
+Q: How do I read the full premium story on Nexora? (v59)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 59).
+
+Q: How do I share an article from Nexora? (v59)
+A: Use the Share button on cards to share via your device's native share menu. (Details 59).
+
+Q: How do I edit or delete a post on Nexora? (v59)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 59).
+
+Q: How do admins review reported content on Nexora? (v59)
+A: From the Admin Dashboard, open Content Moderation to approve, remove, or review reports. (Details 59).
+
+Q: What is the sidebar navigation in Nexora? (v59)
+A: The sidebar provides quick access to Discover, Library, Subscriptions, and role-specific tools. (Details 59).
+
+Q: What can the Nexora chatbot help me with? (v59)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 59).
+
+Q: What tech stack does Nexora use? (v59)
+A: Nexora uses Next.js with React, Tailwind, and a component system for the UI. (Details 59).
+
+Q: Does Nexora offer a student discount? (v60)
+A: Discounts may be offered during promotions. Check the pricing page or billing portal for details. (Details 60).
+
+Q: How do I read the full premium story on Nexora? (v60)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 60).
+
+Q: How do I share an article from Nexora? (v60)
+A: Use the Share button on cards to share via your device's native share menu. (Details 60).
+
+Q: How do I edit or delete a post on Nexora? (v60)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 60).
+
+Q: Does Nexora provide platform analytics for admins? (v60)
+A: Yes. The Admin Dashboard shows platform stats and revenue analytics. (Details 60).
+
+Q: How do I change themes on Nexora? (v60)
+A: Use the Theme Toggle in the header to switch between light and dark modes. (Details 60).
+
+Q: What can the Nexora chatbot help me with? (v60)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 60).
+
+Q: Why did I see a hydration warning on Nexora? (v60)
+A: Hydration warnings can occur if client-only state differs from SSR. Refreshing and avoiding client-only reads during SSR resolves it. (Details 60).
+
+Q: How do I switch plans on Nexora? (v61)
+A: Use Manage Billing to change plans. Your new plan applies after confirmation in the portal. (Details 61).
+
+Q: How do I read the full premium story on Nexora? (v61)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 61).
+
+Q: How do I share an article from Nexora? (v61)
+A: Use the Share button on cards to share via your device's native share menu. (Details 61).
+
+Q: How do I edit or delete a post on Nexora? (v61)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 61).
+
+Q: Can admins ban a user on Nexora? (v61)
+A: Yes. Admins can take actions like suspend or ban via the user management tools. (Details 61).
+
+Q: Where do I find settings in Nexora? (v61)
+A: Open the dashboard header menu or the sidebar Settings item to access preferences. (Details 61).
+
+Q: What can the Nexora chatbot help me with? (v61)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 61).
+
+Q: Does Nexora support mobile devices? (v61)
+A: Yes. The layout and sidebar are responsive and optimized for mobile. (Details 61).
+
+Q: What happens if my Nexora payment fails? (v62)
+A: If a payment fails, the billing portal will guide you to update your method and retry. (Details 62).
+
+Q: How do I read the full premium story on Nexora? (v62)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 62).
+
+Q: How do I share an article from Nexora? (v62)
+A: Use the Share button on cards to share via your device's native share menu. (Details 62).
+
+Q: How do I edit or delete a post on Nexora? (v62)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 62).
+
+Q: How do admins review reported content on Nexora? (v62)
+A: From the Admin Dashboard, open Content Moderation to approve, remove, or review reports. (Details 62).
+
+Q: What is the sidebar navigation in Nexora? (v62)
+A: The sidebar provides quick access to Discover, Library, Subscriptions, and role-specific tools. (Details 62).
+
+Q: What can the Nexora chatbot help me with? (v62)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 62).
+
+Q: What tech stack does Nexora use? (v62)
+A: Nexora uses Next.js with React, Tailwind, and a component system for the UI. (Details 62).
+
+Q: Is billing handled securely on Nexora? (v63)
+A: Yes. Nexora uses a PCI-compliant payment processor, and the customer portal handles secure updates. (Details 63).
+
+Q: How do I read the full premium story on Nexora? (v63)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 63).
+
+Q: How do I share an article from Nexora? (v63)
+A: Use the Share button on cards to share via your device's native share menu. (Details 63).
+
+Q: How do I edit or delete a post on Nexora? (v63)
+A: Open the post in the Creator Dashboard and choose Edit or Delete from the post actions. (Details 63).
+
+Q: Does Nexora provide platform analytics for admins? (v63)
+A: Yes. The Admin Dashboard shows platform stats and revenue analytics. (Details 63).
+
+Q: How do I change themes on Nexora? (v63)
+A: Use the Theme Toggle in the header to switch between light and dark modes. (Details 63).
+
+Q: What can the Nexora chatbot help me with? (v63)
+A: It assists with content creation tips, billing, membership, analytics, and navigation. (Details 63).
+
+Q: Why did I see a hydration warning on Nexora? (v63)
+A: Hydration warnings can occur if client-only state differs from SSR. Refreshing and avoiding client-only reads during SSR resolves it. (Details 63).
+
+Q: How much does Nexora Premium cost per month? (v64)
+A: Premium is a monthly membership. Pricing is shown during checkout and managed via the billing portal. (Details 64).
+
+Q: How do I read the full premium story on Nexora? (v64)
+A: Upgrade to Premium from your dashboard to unlock the full content instantly. (Details 64).
+
+Q: How do I share an article from Nexora? (v64)
+A: Use the Share button on cards to share via your device's native share menu. (Details 64).
